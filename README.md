@@ -1,6 +1,6 @@
 <h1 align="center">Henry Araya Bogarin</h1>
 
-<h1 align="center">**IT Operations & Application Support · Software Deployment · Cybersecurity · Linux · Automation**</h1>
+<h2 align="center">**IT Operations & Application Support · Software Deployment · Cybersecurity · Linux · Automation**</h2>
 
 I am an IT operations and application support professional based in Costa Rica. I work with enterprise and banking environments, combining legacy platforms such as AS/400 (IBM i) with modern tools including Ansible, Jenkins, RPA, ServiceNow, and observability platforms.
 
