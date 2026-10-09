@@ -1,5 +1,3 @@
-<img width="4032" height="1383" alt="imagen" src="https://github.com/user-attachments/assets/cf7b9f28-4b8f-4940-b1d8-0ae8432e7f72" />## Hi there 👋
-
 # Henry Araya Bogarin
 
 **IT Operations & Application Support · Software Deployment · Cybersecurity · Linux · Automation**
