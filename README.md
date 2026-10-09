@@ -42,7 +42,7 @@ Previously, I worked in NOC administration and application support at BAC Credom
 - **[Portfolio Web](https://github.com/henfarhigh/henry-araya-portfolioweb)** - Minimalist portfolio built with web technologies.
 - **[Portfolio Showcase](https://github.com/henfarhigh/portfolio-showcase)** - Frontend project focused on presenting technical work and professional growth.
 - **[Learning Portfolio](https://github.com/henfarhigh/learning-portfolio)** - Collection highlighting my learning progress, practical exercises, and development work.
-- **[Software Documentation](https://github.com/henfarhigh/SC_302_Documentacion)** - Academic repository for software documentation practices and coursework.
+
 
 ## Technical toolkit
 
