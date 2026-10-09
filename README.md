@@ -8,6 +8,7 @@ Mi trabajo se enfoca en la continuidad operativa, el mantenimiento de servidores
 
 Documento mi crecimiento técnico mediante proyectos prácticos y mi <a href="https://henfarhigh.github.io/henry-araya-portfolio/" target="_blank">portafolio profesional</a>. Valoro el trabajo que genera resultados verificables, como sistemas funcionales, procedimientos documentados, despliegues reproducibles, laboratorios prácticos y código fácil de mantener.
 
+<h3 align="center">**IT Operations & Application Support · Software Deployment · Cybersecurity · Linux · Automation**</h3>
 
 I am an IT operations and application support professional based in Costa Rica. I work with enterprise and banking environments, combining legacy platforms such as AS/400 (IBM i) with modern tools including Ansible, Jenkins, RPA, ServiceNow, and observability platforms.
 
