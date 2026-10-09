@@ -87,7 +87,6 @@ These are the technologies I use across enterprise operations, deployment automa
 ## Backend and data
 
 Go Python Rust C Sharp .NET TypeScript React REST APIs OpenAPI NATS PostgreSQL SQL Server
-<img width="4032" height="195" alt="imagen" src="https://github.com/user-attachments/assets/63d32839-ae59-4a88-ae6a-bcc2320269ba" />
 
 
 AWS AWS ECS and Fargate AWS IAM AWS CloudTrail AWS GuardDuty Terraform Docker Podman GitHub Actions OpenTelemetry
