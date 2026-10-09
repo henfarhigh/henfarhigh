@@ -2,6 +2,13 @@
 
 <h3 align="center">**IT Operations & Application Support · Software Deployment · Cybersecurity · Linux · Automation**</h3>
 
+Soy un profesional de operaciones de TI y soporte de aplicaciones ubicado en Costa Rica. Trabajo con entornos empresariales y bancarios, combinando plataformas tradicionales como AS/400 (IBM i) con herramientas modernas como Ansible, Jenkins, RPA, ServiceNow y plataformas de observabilidad.
+
+Mi trabajo se enfoca en la continuidad operativa, el mantenimiento de servidores, el despliegue de aplicaciones, la gestión de incidentes, el monitoreo, los respaldos y la automatización de procesos. Paralelamente a mi experiencia profesional, curso la carrera de Ingeniería en Ciberseguridad y desarrollo proyectos relacionados con Linux, Python, redes, bases de datos y tecnologías web.
+
+Documento mi crecimiento técnico mediante proyectos prácticos y mi <a href="https://henfarhigh.github.io/henry-araya-portfolio/" target="_blank">portafolio profesional</a>. Valoro el trabajo que genera resultados verificables, como sistemas funcionales, procedimientos documentados, despliegues reproducibles, laboratorios prácticos y código fácil de mantener.
+
+
 I am an IT operations and application support professional based in Costa Rica. I work with enterprise and banking environments, combining legacy platforms such as AS/400 (IBM i) with modern tools including Ansible, Jenkins, RPA, ServiceNow, and observability platforms.
 
 My work focuses on operational continuity, server maintenance, application deployment, incident management, monitoring, backups, and process automation. Alongside my professional role, I am pursuing a degree in Cybersecurity and developing projects involving Linux, Python, networking, databases, and web technologies.
@@ -29,7 +36,6 @@ Previously, I worked in NOC administration and application support at BAC Credom
 
 ## Projects
 
-- **[FideBurguesas POS](https://github.com/henfarhigh/FideBurguesas-POS)** - Point-of-sale system developed to support sales management and practical software development experience.
 - **[Professional Portfolio](https://github.com/henfarhigh/henry-araya-portfolio)** - Web portfolio presenting my professional experience, technical skills, education, and cybersecurity background.
 - **[English Portfolio](https://github.com/henfarhigh/henry-araya-portfolio-engl)** - English-language version of my professional technology portfolio.
 - **[Portfolio Web](https://github.com/henfarhigh/henry-araya-portfolioweb)** - Minimalist portfolio built with web technologies.
